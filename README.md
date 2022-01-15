@@ -1,2 +1,2 @@
 # CodeChef
-All code chef problem solved by me.
+All code chef problem with solution in c or c++.
